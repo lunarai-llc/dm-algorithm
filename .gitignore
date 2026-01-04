@@ -1,0 +1,9 @@
+# MATLAB autosave / backup files
+*.asv
+*.m~
+
+# Generated outputs
+output/
+
+# Large binary files
+*.mat
