@@ -20,7 +20,7 @@ This codebase is intended for **research reproducibility** and accompanies the p
 It includes:
 
 - A reference implementation of the DM algorithm for finite mixture models
-- Instantiations using Hellinger and negative-exponential divergences
+- Instantiations using Kullback-Leibler, Hellinger, and negative-exponential divergences
 - Simulation scripts to reproduce representative numerical results
 
 The implementation prioritizes **clarity and correctness** over computational
