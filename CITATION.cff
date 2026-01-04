@@ -20,7 +20,7 @@ abstract: >
 keywords:
   - divergence minimization
   - mixture models
-  - EM algorithm
+  - DM algorithm
   - robust statistics
   - model selection
   - MATLAB
