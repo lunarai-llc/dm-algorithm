@@ -6,7 +6,6 @@ This repository provides a **reference MATLAB implementation** of the
 > **Lei Li and Anand N. Vidyashankar (2026).**  
 > *Divergence-Minimization for Latent-Structure Models:  
 > Monotone Operators, Contraction Guarantees, and Robust Inference.*  
-> Journal of the Royal Statistical Society, Series B (to appear).
 
 The DM framework generalizes EM by replacing likelihood optimization with
 divergence minimization, yielding **monotone descent**, **local contraction**, and
