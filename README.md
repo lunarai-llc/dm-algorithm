@@ -32,9 +32,11 @@ optimization.
 
 ```text
 dm-algorithm/
-├── src/            # Core DM algorithm and divergence utilities
+├── src/            # Core DM algorithm, kernels, and model-selection utilities
 ├── simulations/    # Simulation drivers reproducing paper results
-├── figures/        # Figure-generation scripts
+├── figures/        # Figure-generation scripts for the paper
+├── examples/       # Example data analyses and image segmentation demos
 ├── output/         # Generated results (ignored by git)
 ├── README.md
 └── LICENSE
+
