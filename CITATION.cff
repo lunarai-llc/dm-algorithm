@@ -8,6 +8,7 @@ authors:
     email: lei.li@lunarai.llc
   - family-names: Vidyashankar
     given-names: Anand N.
+    email: avidyash@gmu.edu
 repository-code: https://github.com/lunarai-llc/dm-algorithm
 url: https://github.com/lunarai-llc/dm-algorithm
 license: BSD-3-Clause
