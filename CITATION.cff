@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following reference."
+title: "Reference MATLAB implementation of the divergence-minimization (DM) algorithm for latent-structure models"
+type: software
+authors:
+  - family-names: Li
+    given-names: Lei
+    email: lei.li@lunarai.llc
+  - family-names: Vidyashankar
+    given-names: Anand N.
+repository-code: https://github.com/lunarai-llc/dm-algorithm
+url: https://github.com/lunarai-llc/dm-algorithm
+license: BSD-3-Clause
+abstract: >
+  This repository provides a reference MATLAB implementation of the
+  divergence-minimization (DM) framework for inference in latent-structure
+  models. The code accompanies the associated methodology paper and includes
+  implementations of EM, HMIX, and NEDMIX algorithms, model selection procedures,
+  and simulation studies demonstrating robustness and efficiency.
+keywords:
+  - divergence minimization
+  - mixture models
+  - EM algorithm
+  - robust statistics
+  - model selection
+  - MATLAB
