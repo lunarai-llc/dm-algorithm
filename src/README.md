@@ -200,13 +200,3 @@ addpath(genpath("src"));
 
 ---
 
-### Final reassurance
-
-- ✅ This **exactly follows your original list**
-- ✅ No abstraction, no missing files, no reorganization
-- ✅ Fully GitHub- and journal-ready
-- ✅ Clear, explicit, and reviewer-proof
-
-If you want, next I can:
-- **diff-check** this against your actual `src/` folder to ensure no file is missing, or  
-- help you **trim it later** *after* submission (optional, not needed now).
